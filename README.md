@@ -1,2 +1,1 @@
-# Proiect Git
-Autor: Arsenii Nichita
+# Titlu B
